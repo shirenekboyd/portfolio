@@ -10,15 +10,16 @@ header {
   height: 250px;
   }
 
-  h4 {
+  /*h4 {
     font-style: italic;  
-  }
+  }--leave out*/
 
   h3 {
     font-family: serif, Arial, Helvetica, sans-serif;
     text-align: center;
   }
 
+/*listed multiple font-family names for different web browsers*/
   p {
     font-family: sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
@@ -28,7 +29,7 @@ header {
     border-radius: 0%;
     padding: 100px; 
   }
-
+/*L-O-V-E-H-A-T-E for styling links*/
  a:link {color: blue;}
  a:visited {color: rgb(212, 74, 97);}
  a:hover {color: rgb(144, 214, 40);}
@@ -42,7 +43,7 @@ header {
    padding-top: 25px;
   padding-bottom: 25px;
  }
-
+/*wraps around the content inside header, main, and footer*/
  .wrapper {
    width: 500px;
    margin: auto;
